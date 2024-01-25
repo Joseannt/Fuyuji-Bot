@@ -1,0 +1,33 @@
+D:\PROGRAMAÇÃO\Fuyuji Bot\obj\Debug\net8.0\Fuyuji Bot.csproj.AssemblyReference.cache
+D:\PROGRAMAÇÃO\Fuyuji Bot\obj\Debug\net8.0\Fuyuji Bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO\Fuyuji Bot\obj\Debug\net8.0\Fuyuji Bot.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO\Fuyuji Bot\obj\Debug\net8.0\Fuyuji Bot.AssemblyInfo.cs
+D:\PROGRAMAÇÃO\Fuyuji Bot\obj\Debug\net8.0\Fuyuji Bot.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Fuyuji Bot.exe
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Fuyuji Bot.deps.json
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Fuyuji Bot.runtimeconfig.json
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Fuyuji Bot.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Fuyuji Bot.pdb
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Discord.Net.Commands.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Discord.Net.Core.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Discord.Net.Interactions.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Discord.Net.Rest.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Discord.Net.Webhook.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Discord.Net.WebSocket.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\System.Interactive.Async.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\System.Linq.Async.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\System.Reactive.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\obj\Debug\net8.0\Fuyuji Bot.csproj.CopyComplete
+D:\PROGRAMAÇÃO\Fuyuji Bot\obj\Debug\net8.0\Fuyuji Bot.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\obj\Debug\net8.0\refint\Fuyuji Bot.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\obj\Debug\net8.0\Fuyuji Bot.pdb
+D:\PROGRAMAÇÃO\Fuyuji Bot\obj\Debug\net8.0\Fuyuji Bot.genruntimeconfig.cache
+D:\PROGRAMAÇÃO\Fuyuji Bot\obj\Debug\net8.0\ref\Fuyuji Bot.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\DotNetEnv.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\PROGRAMAÇÃO\Fuyuji Bot\bin\Debug\net8.0\Sprache.dll
